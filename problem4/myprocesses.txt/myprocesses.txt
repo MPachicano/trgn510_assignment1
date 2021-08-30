@@ -1,0 +1,5 @@
+root     251590   2198  0 14:13 ?        00:00:01 sshd: pachican [priv]
+pachican 251597 251590  0 14:13 ?        00:00:00 sshd: pachican@pts/0
+pachican 251598 251597  0 14:13 pts/0    00:00:00 -bash
+pachican 255321 251598  0 14:59 pts/0    00:00:00 ps -ef
+pachican 255322 251598  0 14:59 pts/0    00:00:00 grep --color=auto pachican
